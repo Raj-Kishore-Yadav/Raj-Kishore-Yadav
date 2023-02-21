@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Raj-Kishore-Yadav
 - 👀 I’m interested in competitive coding.
-- 🌱 I’m currently college student.
-- 🌱 I'm currently learning on ML
+- 🌱 I’m currently working on Experion Technology as a Associate Software Engineer.
+- 🌱 I'm trained for FullStack Developer using Html,Css,JS,Node,NodeExpress,React,Php,Magneto,Bigcommerce,MySql2..
 
  
  
