@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Raj-Kishore-Yadav
 - 👀 I’m interested in Web Development and competitive coding.
-- 🌱 I’m currently working on Experion Technology as a Associate Software Engineer.
-- 🌱 I'm trained for FullStack Developer using technology such as Html,Css,JS,Node,NodeExpress,React,Php,Magneto,Bigcommerce,MySql2..
+- 🌱 I’m currently working on Experion Technology as an Associate Software Engineer.
+- 🌱 I'm trained as a FullStack Developer using technology such as HTML, CSS, JS, Node, NodeExpress, React, Php, Magento, Bigcommerce, Next.js, and MySql2.
 
  
  
